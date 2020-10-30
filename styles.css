@@ -1,0 +1,44 @@
+.header-container-padre{
+    margin-top: 70px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#logo{
+    width: 150px;
+    margin-left: 50px;
+    margin-right: 160px;
+}
+
+#sign-in{
+    margin-left: 90px;
+    color: #67b54b;
+}
+
+li{
+    display: inline;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: #025157;
+}
+
+nav{
+    font-family: sans-serif;
+    height: 45px;
+    color: #025157;
+}
+
+button{
+    color: white;
+    background-color: #67b54b;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border: none;
+    border-radius: 5px;
+}
